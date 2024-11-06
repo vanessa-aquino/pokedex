@@ -5,6 +5,11 @@
 
 body {
     background-color: #f6f8fc;
+    text-align: center;
+}
+
+#pokemonList{
+    margin-top: 1rem;
 }
 
 .content {
